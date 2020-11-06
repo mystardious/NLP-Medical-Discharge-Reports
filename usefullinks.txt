@@ -1,0 +1,28 @@
+# Classical Machine Learning
+
+Multi-Class Text Classification Model Comparison and Selection
+https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
+
+BERT Text Classification Using Pytorch
+https://towardsdatascience.com/bert-text-classification-using-pytorch-723dfb8b6b5b
+
+
+# Deep Learning
+
+Multi Class Text Classification With Deep Learning Using BERT
+https://towardsdatascience.com/multi-class-text-classification-with-deep-learning-using-bert-b59ca2f5c613
+
+Multi-Class Text Classification with LSTM
+https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
+
+Multi Class Text Classification with LSTM using TensorFlow 2.0
+https://towardsdatascience.com/multi-class-text-classification-with-lstm-using-tensorflow-2-0-d88627c10a35
+
+Multi Class Text Classification with Keras and LSTM
+https://medium.com/@djajafer/multi-class-text-classification-with-keras-and-lstm-4c5525bef592
+
+How to Diagnose Overfitting and Underfitting of LSTM Models
+https://machinelearningmastery.com/diagnose-overfitting-underfitting-lstm-models/
+
+Very experienced machine learning scientist
+https://medium.com/@actsusanli

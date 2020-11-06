@@ -29,7 +29,9 @@ def process_data(fileName):
         data_tokenized.append((text_tokens_ns, category))
     return data, data_original, data_tokenized
 
-
+# data - Just print the whole sentence
+# original - Same as data but has a label applied based on the file name of the imported file
+# tokenized - Same as original but words are split into tokens e.g. ['patient', 'known', 'drug', 'allergies']
 allergies_data, allergies_original, allergies_tokenized = process_data('../data/allergies.txt')
 family_history_data, family_history_original, family_history_tokenized = process_data('../data/family_history.txt')
 history_illness_data, history_illness_original, history_illness_tokenized = process_data('../data/history_illness.txt')
